@@ -1,12 +1,23 @@
-{
-  "presets": [
-    [
-      "@babel/preset-env",
-      {
-        "targets": {
-          "node": "8"
-        }
-      }
-    ]
-  ]
-}
+[
+  {
+    "name": "emp1",
+    "salary": 1000,
+    "designation": "Developer",
+  },
+  {
+    "name": "emp2",
+    "salary": 2000,
+    "designation": "Tester",
+  },
+  {
+    "name": "emp3",
+    "salary": 3000,
+    "designation": "Manager",
+  },
+  {
+    "name": "emp4",
+    "salary": 4000,
+    "designation": "Developer",
+  }]
+  
+  
